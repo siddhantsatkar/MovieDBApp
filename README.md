@@ -1,11 +1,18 @@
 # MovieDBApp
 An Android application with Movies information. The app has mainly 5 features.
-
+![alt text](http://imgur.com/a/NS4E4)
 1. See the list of Top Rated Movies of all time.
+![alt text](http://imgur.com/a/Rle0Y)
 2. See the list of Now Playing movies.
+![alt text](http://imgur.com/a/7je0c)
 3. Save the movies in database and delete them from database(by long pressing the item in the saved movies list).
+![alt text](http://imgur.com/a/dn6h6)
+![alt text](http://imgur.com/a/wxYNu)
 4. Search for movies using movie name.
-5. See a couple of movie names and their details from last visited feature(Top Rated or Now Playing movies) in case of loss of internet 
+![alt text](http://imgur.com/a/M5k8I)
+![alt text](http://imgur.com/a/xq4Ac)
+5. See a couple of movie names and their details from last visited feature(Top Rated or Now Playing movies) in case of loss of internet
+![alt text](http://imgur.com/a/PVRUY)
 connection.
 
 ## Project Structure
