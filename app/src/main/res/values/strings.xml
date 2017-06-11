@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Moviedb App for Homes.com</string>
+    <string name="title_activity_top_rated_movies">TopRatedMovies</string>
+</resources>
